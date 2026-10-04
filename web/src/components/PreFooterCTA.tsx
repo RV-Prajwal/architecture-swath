@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import {
   Phone,
   MessageCircle,
@@ -27,6 +28,7 @@ export default function PreFooterCTA() {
     plotSize: "4,000 - 8,000 sq ft",
     projectScope: "Bespoke Residence",
     message: "",
+    consent: false,
   });
 
   const [errors, setErrors] = useState<Record<string, string>>({});
@@ -95,6 +97,11 @@ export default function PreFooterCTA() {
       location: validateField("location", form.location),
     };
 
+    if (!form.consent) {
+      newErrors.consent =
+        "Please check the consent box below pursuant to the DPDP Act, 2023 to proceed.";
+    }
+
     // Filter empty
     const filtered: Record<string, string> = {};
     for (const [k, v] of Object.entries(newErrors)) {
@@ -130,6 +137,8 @@ export default function PreFooterCTA() {
           Estimated_Scale: form.plotSize,
           Project_Typology: form.projectScope,
           Client_Message: form.message.trim() || "No additional message provided.",
+          Consent_Under_DPDP_Act: "Affirmative Consent Granted (Sec. 6, DPDP Act 2023)",
+          Data_Fiduciary: "Architecture + Swath, Bengaluru",
           _subject: `New Design Inquiry: ${form.name.trim()} - ${form.projectScope} (${form.location.trim()})`,
           _template: "table",
           _captcha: "false",
@@ -164,6 +173,7 @@ export default function PreFooterCTA() {
       plotSize: "4,000 - 8,000 sq ft",
       projectScope: "Bespoke Residence",
       message: "",
+      consent: false,
     });
   };
 
@@ -1035,19 +1045,121 @@ export default function PreFooterCTA() {
                   />
                 </div>
 
-                {/* Privacy Assurance */}
+                {/* DPDP Act 2023 Statutory Notice & Affirmative Consent */}
                 <div
                   style={{
-                    display: "flex",
-                    alignItems: "center",
-                    gap: "6px",
-                    color: "var(--text-dim)",
-                    fontSize: "0.74rem",
-                    fontFamily: "'Outfit', sans-serif",
+                    background: "rgba(160, 116, 42, 0.05)",
+                    border: errors.consent
+                      ? "1px solid #d94a38"
+                      : "1px solid rgba(160, 116, 42, 0.2)",
+                    borderRadius: "8px",
+                    padding: "0.85rem",
                   }}
                 >
-                  <ShieldCheck size={14} color="var(--accent-gold)" />
-                  <span>Submissions routed to prajwalrv1@gmail.com · Confidential &amp; spam-free.</span>
+                  <div
+                    style={{
+                      display: "flex",
+                      alignItems: "center",
+                      gap: "6px",
+                      marginBottom: "6px",
+                    }}
+                  >
+                    <ShieldCheck size={14} color="var(--accent-gold)" />
+                    <span
+                      style={{
+                        fontFamily: "'Outfit', sans-serif",
+                        fontSize: "0.72rem",
+                        fontWeight: 700,
+                        letterSpacing: "0.08em",
+                        textTransform: "uppercase",
+                        color: "var(--accent-gold-dark)",
+                      }}
+                    >
+                      DPDP Act, 2023 (India) Statutory Notice
+                    </span>
+                  </div>
+                  <p
+                    style={{
+                      fontFamily: "'Outfit', sans-serif",
+                      fontSize: "0.74rem",
+                      color: "var(--text-secondary)",
+                      lineHeight: 1.55,
+                      margin: "0 0 8px 0",
+                    }}
+                  >
+                    Your contact information is processed exclusively by Architecture + Swath to evaluate project feasibility and schedule your consultation. Data is never sold or used for automated marketing.
+                  </p>
+
+                  {/* Explicit Affirmative Consent Checkbox */}
+                  <label
+                    htmlFor="form-consent"
+                    style={{
+                      display: "flex",
+                      alignItems: "flex-start",
+                      gap: "8px",
+                      cursor: "pointer",
+                      fontSize: "0.75rem",
+                      fontFamily: "'Outfit', sans-serif",
+                      color: "var(--text-primary)",
+                      lineHeight: 1.45,
+                    }}
+                  >
+                    <input
+                      id="form-consent"
+                      type="checkbox"
+                      name="consent"
+                      checked={form.consent}
+                      onChange={(e) => {
+                        setForm((prev) => ({ ...prev, consent: e.target.checked }));
+                        if (errors.consent && e.target.checked) {
+                          setErrors((prev) => {
+                            const copy = { ...prev };
+                            delete copy.consent;
+                            return copy;
+                          });
+                        }
+                      }}
+                      style={{
+                        marginTop: "2px",
+                        accentColor: "var(--accent-gold-dark)",
+                        width: "15px",
+                        height: "15px",
+                        cursor: "pointer",
+                        flexShrink: 0,
+                      }}
+                    />
+                    <span>
+                      I give affirmative consent to Architecture + Swath to process my details for this architectural inquiry in accordance with the{" "}
+                      <Link
+                        href="/privacy"
+                        target="_blank"
+                        style={{
+                          color: "var(--accent-gold-dark)",
+                          textDecoration: "underline",
+                          fontWeight: 600,
+                        }}
+                      >
+                        Privacy &amp; DPDP Notice
+                      </Link>
+                      . I understand I can withdraw consent anytime.
+                    </span>
+                  </label>
+
+                  {errors.consent && (
+                    <p
+                      style={{
+                        color: "#d94a38",
+                        fontSize: "0.72rem",
+                        fontFamily: "'Outfit', sans-serif",
+                        marginTop: "6px",
+                        display: "flex",
+                        alignItems: "center",
+                        gap: "4px",
+                      }}
+                    >
+                      <AlertCircle size={11} /> {errors.consent}
+                    </p>
+                  )}
                 </div>
 
                 {/* Submit Button */}

@@ -1,12 +1,14 @@
 "use client";
 
-import { ExternalLink } from "lucide-react";
+import Link from "next/link";
+import { ExternalLink, ShieldCheck } from "lucide-react";
 
 const quickLinks = [
   { label: "Portfolio", href: "#portfolio" },
   { label: "Our Philosophy", href: "#philosophy" },
   { label: "Spatial Program", href: "#spatial-program" },
   { label: "Contact Studio", href: "#contact" },
+  { label: "Privacy & DPDP Notice", href: "/privacy" },
 ];
 
 const caseStudies = [
@@ -34,6 +36,8 @@ export default function Footer() {
   const handleNavClick = (href: string) => {
     if (href.startsWith("#")) {
       document.querySelector(href)?.scrollIntoView({ behavior: "smooth" });
+    } else {
+      window.location.href = href;
     }
   };
 
@@ -435,26 +439,73 @@ export default function Footer() {
             justifyContent: "space-between",
             flexWrap: "wrap",
             gap: "1rem",
+            paddingBottom: "0.5rem",
           }}
         >
-          <p
+          <div style={{ display: "flex", flexDirection: "column", gap: "4px" }}>
+            <p
+              style={{
+                fontFamily: "'Outfit', sans-serif",
+                fontSize: "0.72rem",
+                color: "var(--text-dim)",
+                margin: 0,
+              }}
+            >
+              © {new Date().getFullYear()} Architecture + Swath. All rights reserved.
+            </p>
+            <p
+              style={{
+                fontFamily: "'Outfit', sans-serif",
+                fontSize: "0.7rem",
+                color: "var(--text-muted)",
+                margin: 0,
+                display: "flex",
+                alignItems: "center",
+                gap: "6px",
+              }}
+            >
+              <ShieldCheck size={12} color="var(--accent-gold)" />
+              Compliant with the <strong>Digital Personal Data Protection (DPDP) Act, 2023</strong> (India).
+            </p>
+          </div>
+
+          <div
             style={{
-              fontFamily: "'Outfit', sans-serif",
-              fontSize: "0.72rem",
-              color: "var(--text-dim)",
+              display: "flex",
+              alignItems: "center",
+              gap: "1.25rem",
+              flexWrap: "wrap",
             }}
           >
-            © {new Date().getFullYear()} Architecture + Swath. All rights reserved.
-          </p>
-          <p
-            style={{
-              fontFamily: "'Outfit', sans-serif",
-              fontSize: "0.72rem",
-              color: "var(--text-dim)",
-            }}
-          >
-            Founded by Ar. Meinathan N &amp; Ar. Sai Harini Karthikeyan · Bengaluru, India
-          </p>
+            <span
+              style={{
+                fontFamily: "'Outfit', sans-serif",
+                fontSize: "0.7rem",
+                color: "var(--text-dim)",
+              }}
+            >
+              Grievance Redressal Officer (DPDP): <strong>Ar. Meinathan N</strong> (
+              <a
+                href="mailto:prajwalrv1@gmail.com?subject=[DPDP%20Inquiry%20-%20Architecture%20%2B%20Swath]"
+                style={{ color: "var(--accent-gold-dark)", textDecoration: "none" }}
+              >
+                prajwalrv1@gmail.com
+              </a>
+              )
+            </span>
+            <Link
+              href="/privacy"
+              style={{
+                fontFamily: "'Outfit', sans-serif",
+                fontSize: "0.72rem",
+                color: "var(--accent-gold-dark)",
+                textDecoration: "underline",
+                fontWeight: 600,
+              }}
+            >
+              Privacy &amp; DPDP Notice
+            </Link>
+          </div>
         </div>
       </div>
 
