@@ -1129,7 +1129,7 @@ export default function PreFooterCTA() {
                       }}
                     />
                     <span>
-                      I give affirmative consent to Architecture + Swath to process my details for this architectural inquiry in accordance with the{" "}
+                      I confirm I am 18 years of age or older, and give affirmative consent to Architecture + Swath to process my details for this architectural inquiry in accordance with the{" "}
                       <Link
                         href="/privacy"
                         target="_blank"

@@ -347,7 +347,28 @@ export default function PrivacyPolicyPage() {
                 margin: "1rem 0",
               }}
             >
-              <strong>Right to Withdraw Consent (Section 6(4)):</strong> You have the absolute right to withdraw your consent at any time as easily as giving it. Upon withdrawal via email to <code>prajwalrv1@gmail.com</code>, we will cease processing and permanently erase your personal data within <strong>7 business days</strong>, unless retention is required by Indian law.
+              <p style={{ margin: "0 0 0.5rem 0" }}>
+                <strong>Right to Withdraw Consent (Section 6(4)):</strong> You have the absolute right to withdraw your consent at any time with the same ease as providing it. Upon withdrawal via email or clicking below, we will cease processing and permanently erase your personal records within <strong>7 business days</strong>.
+              </p>
+              <a
+                href="mailto:prajwalrv1@gmail.com?subject=[DPDP%20Act%20-%20Consent%20Withdrawal%20%26%20Data%20Erasure%20Request]&body=Hello%20Architecture%20%2B%20Swath%2C%0A%0APlease%20permanently%20erase%20my%20consultation%20data%20and%20contact%20records%20under%20Section%206(4)%20and%20Section%2012%20of%20the%20DPDP%20Act%2C%202023.%0A%0AMy%20Name%3A%20%0AMy%20Phone%3A%20%0A%0AThank%20you."
+                style={{
+                  display: "inline-flex",
+                  alignItems: "center",
+                  gap: "6px",
+                  padding: "6px 12px",
+                  background: "rgba(217, 74, 56, 0.12)",
+                  border: "1px solid rgba(217, 74, 56, 0.35)",
+                  borderRadius: "6px",
+                  color: "#d94a38",
+                  fontSize: "0.78rem",
+                  fontWeight: 600,
+                  textDecoration: "none",
+                  marginTop: "4px",
+                }}
+              >
+                <Trash2 size={13} /> 1-Click Request to Withdraw Consent &amp; Erase Records
+              </a>
             </div>
           </div>
         </section>
@@ -460,7 +481,7 @@ export default function PrivacyPolicyPage() {
           <p style={{ fontSize: "0.9rem", lineHeight: 1.7, color: "var(--text-secondary)" }}>
             Under Chapter III of the DPDP Act 2023, you hold the following non-derogable rights:
           </p>
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))", gap: "1rem", marginTop: "1rem" }}>
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))", gap: "1rem", marginTop: "1rem" }}>
             <div style={{ padding: "1rem", border: "1px solid var(--border-subtle)", borderRadius: "8px" }}>
               <div style={{ color: "var(--accent-gold-dark)", fontWeight: 700, fontSize: "0.85rem", marginBottom: "4px" }}>
                 Right to Access (Sec. 11)
@@ -487,10 +508,18 @@ export default function PrivacyPolicyPage() {
             </div>
             <div style={{ padding: "1rem", border: "1px solid var(--border-subtle)", borderRadius: "8px" }}>
               <div style={{ color: "var(--accent-gold-dark)", fontWeight: 700, fontSize: "0.85rem", marginBottom: "4px" }}>
+                Right to Nominate (Sec. 14)
+              </div>
+              <p style={{ fontSize: "0.8rem", color: "var(--text-secondary)", margin: 0 }}>
+                Nominate an individual to exercise your rights in the event of death or physical/mental incapacity.
+              </p>
+            </div>
+            <div style={{ padding: "1rem", border: "1px solid var(--border-subtle)", borderRadius: "8px" }}>
+              <div style={{ color: "var(--accent-gold-dark)", fontWeight: 700, fontSize: "0.85rem", marginBottom: "4px" }}>
                 Right of Grievance (Sec. 13)
               </div>
               <p style={{ fontSize: "0.8rem", color: "var(--text-secondary)", margin: 0 }}>
-                File a grievance directly with our designated officer and receive resolution within statutory timeframes.
+                File a grievance directly with our designated officer and receive resolution within 30 days.
               </p>
             </div>
           </div>
