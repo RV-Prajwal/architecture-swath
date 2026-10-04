@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abhyudaya — Project Media Assets</title>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --card-bg: #1e293b;
+            --text: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent: #38bdf8;
+            --border: #334155;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 32px 24px;
+        }
+        .header {
+            max-width: 1400px;
+            margin: 0 auto 32px auto;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 24px;
+        }
+        h1 {
+            font-size: 2.2rem;
+            margin: 0 0 8px 0;
+            color: var(--accent);
+        }
+        .status-tag {
+            display: inline-block;
+            background: #0369a1;
+            color: #e0f2fe;
+            padding: 4px 12px;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 500;
+        }
+        .summary-bar {
+            display: flex;
+            gap: 24px;
+            margin-top: 16px;
+            color: var(--text-muted);
+            font-size: 0.95rem;
+        }
+        .summary-bar strong {
+            color: var(--text);
+        }
+        .grid {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+        }
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 24px -8px rgba(0, 0, 0, 0.5);
+            border-color: var(--accent);
+        }
+        .img-wrapper {
+            aspect-ratio: 4 / 3;
+            overflow: hidden;
+            background: #020617;
+        }
+        .img-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.3s ease;
+        }
+        .card:hover .img-wrapper img {
+            transform: scale(1.04);
+        }
+        .card-info {
+            padding: 12px 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.85rem;
+            border-top: 1px solid var(--border);
+        }
+        .badge {
+            background: var(--accent);
+            color: #0f172a;
+            font-weight: 700;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+        }
+        .filename {
+            color: var(--text);
+            font-family: monospace;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .filesize {
+            color: var(--text-muted);
+            margin-left: auto;
+        }
+        .sources-section {
+            max-width: 1400px;
+            margin: 40px auto 0 auto;
+            background: var(--card-bg);
+            padding: 24px;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+        }
+        .sources-section h3 {
+            margin-top: 0;
+            color: var(--accent);
+        }
+        ul {
+            margin: 0;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        a {
+            color: #7dd3fc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Abhyudaya</h1>
+        <span class="status-tag">Verified flagship project</span>
+        <div class="summary-bar">
+            <div>Downloaded Local Assets: <strong>32 files</strong></div>
+            <div>Folder: <code>04_Abhyudaya/downloaded_images/</code></div>
+        </div>
+    </div>
+
+    <div class="grid">
+        
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/001_abhyudaya.jpg" alt="Abhyudaya - Photo 1">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#001</span>
+                    <span class="filename">001_abhyudaya.jpg</span>
+                    <span class="filesize">(56 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/002_abhyudaya.jpg" alt="Abhyudaya - Photo 2">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#002</span>
+                    <span class="filename">002_abhyudaya.jpg</span>
+                    <span class="filesize">(35 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/003_abhyudaya.jpg" alt="Abhyudaya - Photo 3">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#003</span>
+                    <span class="filename">003_abhyudaya.jpg</span>
+                    <span class="filesize">(60 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/004_abhyudaya.jpg" alt="Abhyudaya - Photo 4">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#004</span>
+                    <span class="filename">004_abhyudaya.jpg</span>
+                    <span class="filesize">(33 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/005_abhyudaya.jpg" alt="Abhyudaya - Photo 5">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#005</span>
+                    <span class="filename">005_abhyudaya.jpg</span>
+                    <span class="filesize">(38 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/006_abhyudaya.jpg" alt="Abhyudaya - Photo 6">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#006</span>
+                    <span class="filename">006_abhyudaya.jpg</span>
+                    <span class="filesize">(48 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/007_abhyudaya.jpg" alt="Abhyudaya - Photo 7">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#007</span>
+                    <span class="filename">007_abhyudaya.jpg</span>
+                    <span class="filesize">(252 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/008_abhyudaya.jpg" alt="Abhyudaya - Photo 8">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#008</span>
+                    <span class="filename">008_abhyudaya.jpg</span>
+                    <span class="filesize">(387 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/009_abhyudaya.jpg" alt="Abhyudaya - Photo 9">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#009</span>
+                    <span class="filename">009_abhyudaya.jpg</span>
+                    <span class="filesize">(452 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/010_abhyudaya.jpg" alt="Abhyudaya - Photo 10">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#010</span>
+                    <span class="filename">010_abhyudaya.jpg</span>
+                    <span class="filesize">(354 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/011_abhyudaya.jpg" alt="Abhyudaya - Photo 11">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#011</span>
+                    <span class="filename">011_abhyudaya.jpg</span>
+                    <span class="filesize">(197 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/012_abhyudaya.jpg" alt="Abhyudaya - Photo 12">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#012</span>
+                    <span class="filename">012_abhyudaya.jpg</span>
+                    <span class="filesize">(114 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/013_abhyudaya.jpg" alt="Abhyudaya - Photo 13">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#013</span>
+                    <span class="filename">013_abhyudaya.jpg</span>
+                    <span class="filesize">(180 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/014_abhyudaya.jpg" alt="Abhyudaya - Photo 14">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#014</span>
+                    <span class="filename">014_abhyudaya.jpg</span>
+                    <span class="filesize">(444 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/015_abhyudaya.jpg" alt="Abhyudaya - Photo 15">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#015</span>
+                    <span class="filename">015_abhyudaya.jpg</span>
+                    <span class="filesize">(268 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/016_abhyudaya.jpg" alt="Abhyudaya - Photo 16">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#016</span>
+                    <span class="filename">016_abhyudaya.jpg</span>
+                    <span class="filesize">(81 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/017_abhyudaya.jpg" alt="Abhyudaya - Photo 17">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#017</span>
+                    <span class="filename">017_abhyudaya.jpg</span>
+                    <span class="filesize">(242 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/018_abhyudaya.jpg" alt="Abhyudaya - Photo 18">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#018</span>
+                    <span class="filename">018_abhyudaya.jpg</span>
+                    <span class="filesize">(162 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/019_abhyudaya.jpg" alt="Abhyudaya - Photo 19">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#019</span>
+                    <span class="filename">019_abhyudaya.jpg</span>
+                    <span class="filesize">(456 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/020_abhyudaya.jpg" alt="Abhyudaya - Photo 20">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#020</span>
+                    <span class="filename">020_abhyudaya.jpg</span>
+                    <span class="filesize">(103 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/021_abhyudaya.jpg" alt="Abhyudaya - Photo 21">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#021</span>
+                    <span class="filename">021_abhyudaya.jpg</span>
+                    <span class="filesize">(123 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/022_abhyudaya.jpg" alt="Abhyudaya - Photo 22">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#022</span>
+                    <span class="filename">022_abhyudaya.jpg</span>
+                    <span class="filesize">(210 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/023_abhyudaya.jpg" alt="Abhyudaya - Photo 23">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#023</span>
+                    <span class="filename">023_abhyudaya.jpg</span>
+                    <span class="filesize">(93 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/024_abhyudaya.jpg" alt="Abhyudaya - Photo 24">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#024</span>
+                    <span class="filename">024_abhyudaya.jpg</span>
+                    <span class="filesize">(500 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/025_abhyudaya.jpg" alt="Abhyudaya - Photo 25">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#025</span>
+                    <span class="filename">025_abhyudaya.jpg</span>
+                    <span class="filesize">(444 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/026_abhyudaya.jpg" alt="Abhyudaya - Photo 26">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#026</span>
+                    <span class="filename">026_abhyudaya.jpg</span>
+                    <span class="filesize">(330 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/027_abhyudaya.jpg" alt="Abhyudaya - Photo 27">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#027</span>
+                    <span class="filename">027_abhyudaya.jpg</span>
+                    <span class="filesize">(232 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/028_abhyudaya.jpg" alt="Abhyudaya - Photo 28">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#028</span>
+                    <span class="filename">028_abhyudaya.jpg</span>
+                    <span class="filesize">(137 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/029_abhyudaya.jpg" alt="Abhyudaya - Photo 29">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#029</span>
+                    <span class="filename">029_abhyudaya.jpg</span>
+                    <span class="filesize">(29 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/030_abhyudaya.jpg" alt="Abhyudaya - Photo 30">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#030</span>
+                    <span class="filename">030_abhyudaya.jpg</span>
+                    <span class="filesize">(55 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/031_abhyudaya.jpg" alt="Abhyudaya - Photo 31">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#031</span>
+                    <span class="filename">031_abhyudaya.jpg</span>
+                    <span class="filesize">(194 KB)</span>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="img-wrapper">
+                    <img loading="lazy" src="downloaded_images/032_abhyudaya.jpg" alt="Abhyudaya - Photo 32">
+                </div>
+                <div class="card-info">
+                    <span class="badge">#032</span>
+                    <span class="filename">032_abhyudaya.jpg</span>
+                    <span class="filesize">(27 KB)</span>
+                </div>
+            </div>
+            
+    </div>
+
+    
+</body>
+</html>

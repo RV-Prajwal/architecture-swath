@@ -1,0 +1,1044 @@
+Yes. I went much deeper specifically on **Architecture + Swath’s project portfolio**, separating **well-documented projects**, **directory-only projects**, and **projects visible on social media but not yet documented enough to treat as fact**.
+
+One important finding first: **there is no single public portfolio containing every project the firm has executed**. Buildofy currently shows 2 featured projects, Architizer shows 2, while Houzz shows 4 different/older projects. LinkedIn and Instagram reveal additional work. So the public record is fragmented, and a truly exhaustive internal portfolio would still need confirmation from the studio. [Buildofy](https://www.buildofy.com/architects-interior-design-firms-india/architecture-plus-swath-bengaluru?utm_source=chatgpt.com)
+
+# Architecture + Swath — Project Portfolio Deep Dive
+
+## 1. Publicly identifiable project universe
+
+I can currently establish the following portfolio/project names with varying levels of evidence:
+
+| Project | Location | Type | Public evidence | Confidence |
+|---|---|---|---|---|
+| **House at California Layout** | Yelahanka, Bengaluru | Residence | ArchiDiaries, Buildofy, Volume Zero, Amazing Architecture, eBook, Houzz | **Very High** |
+| **Project N170** | Yelahanka, Bengaluru | Luxury villa | Volume Zero, LinkedIn | **Very High** |
+| **House Neeranjanam** | Electronic City, Bengaluru | Residence | Volume Zero, Biltrax, Amazing Architecture, Tatler, Architizer | **Very High** |
+| **Abhyudaya** | Yelahanka, Bengaluru | Residence | Volume Zero, Buildofy, LinkedIn | **Very High** |
+| **Mr. Bala's Residence** | Yelahanka, Bengaluru | Residence | Houzz | **High for existence, low for technical details** |
+| **Dr. Niyas Residence** | Yelahanka, Bengaluru | Residence | Houzz + social references | **High for existence, medium for details** |
+| **Mr. Sachin's Residence** | Yelahanka, Bengaluru | Residence | Sai Harini LinkedIn post | **High for existence, low for technical details** |
+| **Into the woods** | Not publicly established | Project | Houzz | **High for existence, low for details** |
+| **Aasare / Aasare!** | Bengaluru, apparently | Residential / WIP | Architecture+Swath Instagram | **Medium** |
+| **Unnamed minimal contemporary home** | Bengaluru, apparently | Residence/interior | Principal architect's LinkedIn activity | **Medium** |
+| **Unnamed upcoming Coorg project** | Coorg, likely | Upcoming residential/project | Team-member LinkedIn activity | **Low–Medium** |
+
+The first four are the firm's **strongest publicly documented projects** and should form the backbone of any official project portfolio. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+---
+
+# 2. House at California Layout
+
+This is clearly the studio's **breakthrough and best-documented project**.
+
+### Basic project data
+
+**Project:** House at California Layout  
+**Location:** Yelahanka, Bengaluru, Karnataka  
+**Typology:** Private residence  
+**Client:** Mr. Sidhu & Mrs. Radha  
+**Family:** Four  
+**Plot:** 5,000 sq ft  
+**Plot dimensions:** 50' × 100'  
+**Built-up:** 10,000 sq ft  
+**Floors:** Four storeys  
+**Rooms:** 4  
+**Car parks:** 2  
+**Orientation:** North-facing  
+**Vastu:** Yes  
+**Design year:** 2019 according to Amazing Architecture  
+**Completion:** 2021 according to ArchiDiaries/Amazing Architecture; Buildofy gives 2021–2022. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+The project document published online identifies **Meinathan N and Sai Harini Karthikeyan** as principal architects and **Venkatesh K and Joshin Rose** as the project team. [Scribd](https://www.scribd.com/document/776910948/House-at-California-Layout?utm_source=chatgpt.com)
+
+### The client's brief
+
+The house was intended to be:
+
+**simple but bold**
+
+The clients wanted contemporary architecture without making the home cold. They also wanted a degree of luxury, while retaining warmth and a connection with nature. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+### The central design idea
+
+The architects describe the **floor plan itself as the master of the project**.
+
+Rather than treating landscaping as something added around the building, they used it as part of the spatial organization. An **L-shaped landscape occupies the north-eastern side**, deliberately making use of wind and evening shade. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+The strongest architectural device is the **central water body on the first floor**, which becomes both:
+
+- a visual focal point
+- a spatial connection between levels
+- a device connecting the interior with greenery. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+### Ground floor
+
+The ground floor deliberately separates more private/quiet family functions from the main social areas.
+
+The project material identifies:
+
+- game room
+- home theatre
+- office cabin
+- library
+
+on this level. [Scribd](https://www.scribd.com/document/776910948/House-at-California-Layout?utm_source=chatgpt.com)
+
+This is significant because the studio wasn't simply stacking bedrooms and living rooms floor by floor; they were organizing the house according to **privacy and activity levels**.
+
+### First floor
+
+The principal social zone begins here.
+
+The entrance leads into a passage with a **detailed teakwood ceiling**.
+
+The design deliberately minimizes hard partitions and instead uses:
+
+- level changes
+- visual continuity
+- double-height spaces
+- courts
+- water
+- material transitions
+
+to differentiate spaces. [Scribd](https://www.scribd.com/document/776910948/House-at-California-Layout?utm_source=chatgpt.com)
+
+The **formal living room is double-height** and slightly sunken. It visually merges with the informal living area, creating the perception of a larger continuous court. [Volume Zero](https://volzero.com/volzero/public/articles/view/house-at-california-layout-by-architecture-swath?utm_source=chatgpt.com)
+
+The same floor contains:
+
+- kitchen
+- dining
+- semi-private living
+- central water court. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+### Upper floor
+
+The bedrooms are arranged around the central court.
+
+The published description says the bedrooms occupy the eastern and western sides, with balconies looking either toward the road or the private eastern lawn. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+The next upper level becomes an **entertainment floor**, reflecting the client's preference for leisure and relaxation space after work. [India's Best Homes](https://www.indiasbesthomes.com/post/house-at-california-layout-by-architecture-swath-yelahanka-bangalore?utm_source=chatgpt.com)
+
+### Material language
+
+The main materials are:
+
+**concrete + teak/wood + marble**
+
+Grey and white tones form the neutral architectural base, while wood supplies warmth.
+
+Teak appears extensively from the foyer to ceilings and passage details. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+The project documentation additionally shows **brass accents**, beige marble, WPC and detailed granite elements in terrace-related construction drawings. [Scribd](https://www.scribd.com/document/776910948/House-at-California-Layout?utm_source=chatgpt.com)
+
+### Cost
+
+The project eBook available online states:
+
+**₹5,000/sq ft**
+
+as project cost. [Scribd](https://www.scribd.com/document/776910948/House-at-California-Layout?utm_source=chatgpt.com)
+
+Houzz currently places the project in a broad **₹5 crore–₹10 crore** project-cost band, but that is a directory range and should not be treated as the studio's certified final construction cost. [Houzz](https://www.houzz.in/hznb/projects/house-at-california-layout-pj-vj~6903963)
+
+### Recognition
+
+This is the critical part of the project's history.
+
+The Mohamed Sathak A.J. Academy states that **House at California Layout won Gold in the Residential category of the Architecture Ideas competition at FOAID 2022**. [MSAJAA](https://www.msajaarch-edu.in/alumni-distinguishedalumni.php?utm_source=chatgpt.com)
+
+The house was also published by:
+
+- ArchiDiaries
+- Volume Zero
+- Buildofy
+- Amazing Architecture
+- India's Best Homes
+- Architizer. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+### Why this project matters
+
+I would classify this as:
+
+**Architecture + Swath's portfolio-defining project.**
+
+It is the project that established the firm's public architectural credibility and appears to have played a major role in the firm's later recognition. [MSAJAA](https://www.msajaarch-edu.in/alumni-distinguishedalumni.php?utm_source=chatgpt.com)
+
+---
+
+# 3. Project N170
+
+### Basic data
+
+**Project:** N170  
+**Location:** Yelahanka, Bengaluru  
+**Typology:** Luxury villa / residence  
+**Site:** 30' × 50'  
+**Area:** 6,000 sq ft  
+**Family:** Three  
+**Completion:** 2023  
+**Configuration:** G+3  
+**Lead architects:** Ar. Meinathan N + Ar. Sai Harini Karthikeyan  
+**Design team:** Ar. Venkatesh + Ar. Joshin  
+**Structural consultant:** Nirmana / Manjunath Galiveedu  
+**Photographer:** Studio f/8. [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/project-n170-by-architectureswath?utm_source=chatgpt.com)
+
+### The challenge
+
+N170 is particularly interesting because the site is only **30 × 50 ft**, yet the studio describes the resulting house as a luxurious villa.
+
+The design therefore became an exercise in:
+
+**compact-site planning + vertical organization + luxury + light + air**. [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/project-n170-by-architectureswath?utm_source=chatgpt.com)
+
+### Building organization
+
+The house is **G+3**, with the homeowners' primary residence located on the **second floor**. [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/project-n170-by-architectureswath?utm_source=chatgpt.com)
+
+The published photography/documentation identifies:
+
+- living
+- family living
+- dining
+- double-height space
+- master bedroom
+- balcony
+- foyer
+- elevations
+
+as significant design elements. [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/project-n170-by-architectureswath?utm_source=chatgpt.com)
+
+### Material palette
+
+The project uses an intentionally luxurious but durable palette:
+
+**quartzite flooring  
++ marble façade  
++ teak wood  
++ brass accents**. [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/project-n170-by-architectureswath?utm_source=chatgpt.com)
+
+This is an important evolution from California Layout: the studio's material language becomes more explicitly **luxury-oriented**.
+
+### Openings
+
+One of the key features is the use of **elongated windows**.
+
+Rather than maximizing glass indiscriminately, the openings are strategically placed to give the living spaces glimpses of the exterior and create a visual indoor/outdoor connection. [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/project-n170-by-architectureswath?utm_source=chatgpt.com)
+
+### Architectural philosophy
+
+The studio says that despite the constraints of the site, the house demonstrates how:
+
+**efficient planning + optimal light and air + appropriate materials**
+
+can transform a compact plot into a high-end home. [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/project-n170-by-architectureswath?utm_source=chatgpt.com)
+
+### Publication
+
+Volume Zero published N170 on **28 January 2024**. [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/project-n170-by-architectureswath?utm_source=chatgpt.com)
+
+Sai Harini later described it as a project the studio had handed over earlier that year, calling it a labor of love from the team. [LinkedIn](https://www.linkedin.com/posts/sai-harini-559510172_sharing-a-project-that-we-handed-over-earlier-activity-7221053782103617537-4w4M?utm_source=chatgpt.com)
+
+---
+
+# 4. House Neeranjanam
+
+This is arguably the firm's **most conceptually mature project**.
+
+### Basic data
+
+**Project:** House Neeranjanam  
+**Location:** Electronic City, Bengaluru  
+**Site:** 41' × 112'  
+**Site area:** ~5,300 sq ft  
+**Built area:** 6,500 sq ft in Volume Zero; 7,450 sq ft in Amazing Architecture  
+**Design year:** 2023  
+**Completion:** 2024 according to Amazing Architecture, 2025 according to Volume Zero  
+**Family:** Four  
+**Client:** Mr. Sasi  
+**Lead architects:** Meinathan N + Sai Harini Karthikeyan  
+**Design team:** Venkatesh, Joshin Rose, Vaibhav  
+**Structure:** Nirmana Structural Consultants  
+**Photography:** Naresh and Nayan. [Volume Zero](https://volzero.com/volzero/public/articles/view/house-neeranjanam-by-architecture-swath?utm_source=chatgpt.com)
+
+### Important data discrepancy
+
+There are two public area figures:
+
+**6,500 sq ft** — Volume Zero  
+**7,450 sq ft** — Amazing Architecture. [Volume Zero](https://volzero.com/volzero/public/articles/view/house-neeranjanam-by-architecture-swath?utm_source=chatgpt.com)
+
+Likewise, completion is listed as 2024 by Amazing Architecture and 2025 by Volume Zero. [Amazing Architecture](https://www.amazingarchitecture.com/houses/house-neeranjanam-electronic-city-bangalore-india-by-architecture-plus-swath?utm_source=chatgpt.com)
+
+This needs direct client/studio confirmation before being used in a website.
+
+---
+
+## The client's cultural brief
+
+The homeowners wanted a contemporary house that still reflected their **Kerala heritage**. [Volume Zero](https://volzero.com/volzero/public/articles/view/house-neeranjanam-by-architecture-swath?utm_source=chatgpt.com)
+
+The resulting architecture is not a literal reproduction of a Kerala house.
+
+Instead, the studio translated a Kerala architectural principle into a modern planning system.
+
+---
+
+## The North–South axis
+
+The core idea is a **north-to-south axis derived from Kerala Vastu**.
+
+This axis physically and conceptually runs:
+
+**main gate → entrance → central spine → backyard**. [Volume Zero](https://volzero.com/volzero/public/articles/view/house-neeranjanam-by-architecture-swath?utm_source=chatgpt.com)
+
+This is one of the clearest examples of Architecture+Swath taking a cultural requirement and turning it into actual architecture rather than decorative styling.
+
+---
+
+## Zoning
+
+The house is organized into:
+
+**public → semi-private → private**
+
+zones.
+
+This allows the home to remain socially open while preserving privacy for bedrooms and family spaces. [Volume Zero](https://volzero.com/volzero/public/articles/view/house-neeranjanam-by-architecture-swath?utm_source=chatgpt.com)
+
+---
+
+## The two-court strategy
+
+The design uses two courts.
+
+The first is a central courtyard connecting:
+
+- living
+- dining
+- upper bedrooms.
+
+The second is a **sunken living court** connected to:
+
+- landscape
+- swimming pool
+- outdoor space.
+
+This is explicitly related to **traditional Kerala dual-courtyard concepts**. [Volume Zero](https://volzero.com/volzero/public/articles/view/house-neeranjanam-by-architecture-swath?utm_source=chatgpt.com)
+
+---
+
+## Spaces documented publicly
+
+Published project images/documentation identify:
+
+- entrance porch
+- front courtyard
+- living room
+- dining
+- kitchen
+- central courtyard
+- central-axis corridor
+- son's bedroom
+- dusk exterior
+- floor plans. [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/house-neeranjanam-by-architecture-swath?utm_source=chatgpt.com)
+
+### Materials
+
+The palette includes:
+
+- warm wood
+- polished marble
+- glass
+- exposed concrete
+- patterned metal/jaali screens. [Amazing Architecture](https://www.amazingarchitecture.com/houses/house-neeranjanam-electronic-city-bangalore-india-by-architecture-plus-swath?utm_source=chatgpt.com)
+
+---
+
+## Later detailed media coverage
+
+Tatler Asia provides an unusually detailed walkthrough of this project.
+
+The entrance porch is described as evoking the **South Indian thinnai**, while an east-facing **Tulasi madam** introduces a culturally familiar spiritual threshold. [Tatler Asia](https://www.tatlerasia.com/homes/home-tours/family-home-balancing-sustainability-and-tradition-bengaluru-india?utm_source=chatgpt.com)
+
+The entrance contains:
+
+- sunken foyer
+- window seat
+- wooden partitions
+- views toward the double-height dining/kitchen
+- a vintage scooter belonging to the family. [Tatler Asia](https://www.tatlerasia.com/homes/home-tours/family-home-balancing-sustainability-and-tradition-bengaluru-india?utm_source=chatgpt.com)
+
+The central pooja area becomes the spiritual center of the residence, with:
+
+- water
+- floating steps
+- double-height volume
+- skylights
+- landscape.
+
+The courtyard also helps bring daylight and cooling air into the interior. [Tatler Asia](https://www.tatlerasia.com/homes/home-tours/family-home-balancing-sustainability-and-tradition-bengaluru-india?utm_source=chatgpt.com)
+
+---
+
+## Bedrooms
+
+Tatler's documentation provides more detail than most architecture publications.
+
+The parents' room includes:
+
+- wood and brass details
+- bay window
+- reading/quiet-use area.
+
+The second floor master suite includes:
+
+- sunken lounge
+- walk-in wardrobe
+- long balcony
+- perforated metal screens.
+
+Those screens control sunlight and privacy while still allowing airflow. [Tatler Asia](https://www.tatlerasia.com/homes/home-tours/family-home-balancing-sustainability-and-tradition-bengaluru-india?utm_source=chatgpt.com)
+
+---
+
+## Environmental design
+
+This is also one of the firm's strongest documented sustainability projects.
+
+The residence incorporates:
+
+- solar panels
+- rainwater harvesting
+- skylights
+- cross ventilation
+- controlled fenestration
+- water body
+- landscaped areas
+- metal screens that reduce heat gain. [Tatler Asia](https://www.tatlerasia.com/homes/home-tours/family-home-balancing-sustainability-and-tradition-bengaluru-india?utm_source=chatgpt.com)
+
+So Neeranjanam should not simply be described as a "beautiful Kerala-inspired home." Its stronger story is:
+
+**cultural heritage + passive environmental design + contemporary living.**
+
+---
+
+## Recognition
+
+House Neeranjanam was selected for **Volume Zero Hot 100 of 2025**, at **#75**. 
+
+The project has subsequently received coverage from:
+
+- Volume Zero
+- Biltrax
+- Amazing Architecture
+- Tatler Asia
+- Architizer. [Volume Zero](https://volzero.com/volzero/public/articles/view/house-neeranjanam-by-architecture-swath?utm_source=chatgpt.com)
+
+This is currently one of the studio's strongest international/publication-facing projects.
+
+---
+
+# 5. Abhyudaya
+
+This is the firm's newest **fully documented flagship project** that I found.
+
+### Basic data
+
+**Project:** Abhyudaya  
+**Location:** Yelahanka, Bengaluru  
+**Area:** 6,200 sq ft according to Volume Zero  
+**Buildofy area:** 4,760 sq ft  
+**Completion:** 2025  
+**Principal architects:** Ar. Meinathan N + Ar. Sai Harini Karthikeyan  
+**Photographer:** Naresh & Nayan. [Volume Zero](https://volzero.com/volzero/public/articles/view/abhyudaya-by-architecture-swath?utm_source=chatgpt.com)
+
+Again, the area discrepancy should be corrected with the architects before publication.
+
+---
+
+## Meaning of Abhyudaya
+
+The name refers to **sunrise / rising / prosperity** in Sanskrit.
+
+The project therefore uses the idea of **rising, light and renewal** as part of its architectural narrative. [Volume Zero](https://volzero.com/volzero/public/articles/view/abhyudaya-by-architecture-swath?utm_source=chatgpt.com)
+
+---
+
+## Client brief
+
+The client wanted a residence that carries the:
+
+**calm + quietude of an ancestral home**
+
+while still supporting contemporary life. [Volume Zero](https://volzero.com/volzero/public/articles/view/abhyudaya-by-architecture-swath?utm_source=chatgpt.com)
+
+This is important because Abhyudaya appears to be the next step after Neeranjanam:
+
+**not simply contemporary architecture with Indian references, but contemporary architecture organized around Indian cultural life.**
+
+---
+
+## The pooja is the architectural core
+
+The **pooja space is the spiritual and organizational centre of the house**.
+
+It isn't simply another room placed somewhere in the floor plan. It determines the way the house is experienced. [Volume Zero](https://volzero.com/volzero/public/articles/view/abhyudaya-by-architecture-swath?utm_source=chatgpt.com)
+
+The circulation system is structured around:
+
+- central corridor
+- staircase
+- foyer
+- central court
+- vertical connections.
+
+---
+
+## Entry sequence
+
+The experience begins with an entrance foyer featuring a **striking wooden partition**.
+
+That transitions into a long corridor with a **detailed wooden ceiling**, making movement through the house part of the architectural experience. [Volume Zero](https://volzero.com/volzero/public/articles/view/abhyudaya-by-architecture-swath?utm_source=chatgpt.com)
+
+Buildofy's house-tour description similarly emphasizes the ceremonial corridor and layered thresholds. [LinkedIn](https://www.linkedin.com/posts/buildofy-com_this-bengaluru-home-is-designed-around-a-activity-7432733695557443584-SrGb?utm_source=chatgpt.com)
+
+---
+
+## Central court
+
+A central court sits between public and private zones.
+
+It acts as a:
+
+**double-height atrium**
+
+rather than merely a decorative courtyard. [Volume Zero](https://volzero.com/volzero/public/articles/view/abhyudaya-by-architecture-swath?utm_source=chatgpt.com)
+
+---
+
+## Material palette
+
+This is one of the project's most carefully articulated aspects.
+
+The studio lists:
+
+- responsibly sourced wood
+- marble
+- local black stone
+- brass
+- lime plaster
+- corten steel
+- reclaimed/recyclable materials.
+
+The overall floor language uses neutral grey marble to create a quiet background for light, craft and material texture. [Volume Zero](https://volzero.com/volzero/public/articles/view/abhyudaya-by-architecture-swath?utm_source=chatgpt.com)
+
+---
+
+## Corten steel jaali
+
+The façade is probably the project's most recognizable feature.
+
+The **corten steel jaali is inspired by the trees around the property**.
+
+It performs several jobs simultaneously:
+
+- privacy
+- solar filtering
+- visual identity
+- connection with landscape
+- dynamic shadow patterns. [Volume Zero](https://volzero.com/volzero/public/articles/view/abhyudaya-by-architecture-swath?utm_source=chatgpt.com)
+
+
+---
+
+## Sustainability
+
+The studio explicitly integrates sustainability into the spatial planning.
+
+The published approach includes:
+
+- natural daylight
+- skylights
+- light wells
+- cross-environmental thinking
+- breathable lime plaster
+- durable materials
+- reclaimed/recyclable components. [Volume Zero](https://volzero.com/volzero/public/articles/view/abhyudaya-by-architecture-swath?utm_source=chatgpt.com)
+
+
+Buildofy describes the house as balancing openness and retreat while using the courtyard and jaali to mediate light/privacy. [LinkedIn](https://www.linkedin.com/posts/buildofy-com_this-bengaluru-home-is-designed-around-a-activity-7432733695557443584-SrGb?utm_source=chatgpt.com)
+
+---
+
+# 6. Mr. Bala's Residence
+
+This is an important older project because it appears in the firm's Houzz portfolio, but **it does not have the same public documentation depth** as California Layout or the newer flagship projects.
+
+### What is verified
+
+**Project:** Mr. Bala's Residence  
+**Location:** Yelahanka, Bengaluru  
+**Project year:** 2022  
+**Houzz photos:** 12  
+**Houzz stated project-cost band:** ₹75,00,001–₹1,00,00,000. [Houzz](https://www.houzz.in/hznb/projects/mr-bala-s-residence-pj-vj~7150803)
+
+Houzz explicitly lists it as one of Architecture+Swath's four projects. [Houzz](https://www.houzz.in/professionals/architects-and-building-designers/architecture-swath-pfvwin-pf~1170247849?utm_source=chatgpt.com)
+
+There are also Houzz images indexed under this project for areas such as:
+
+- dining
+- kitchen. [Houzz](https://www.houzz.in/photos/dining-room-design-ideas-phbr0-bp~t_26357?pg=100\&utm_source=chatgpt.com)
+
+### What is NOT publicly established
+
+I could not verify from a strong architectural source:
+
+- site area
+- built-up area
+- floor count
+- exact client brief
+- architect/team
+- structural consultant
+- design year
+- completion date beyond Houzz's project year
+- materials
+- exact address.
+
+So an official website should not invent a project description based only on its photographs.
+
+---
+
+# 7. Dr. Niyas Residence
+
+Another older project in the firm's Houzz portfolio.
+
+### Verified data
+
+**Project:** Dr. Niyas Residence  
+**Location:** Yelahanka, Bengaluru  
+**Project year:** 2021  
+**Houzz photos:** 8  
+**Houzz stated project-cost band:** ₹1,00,00,001–₹1,50,00,000. [Houzz](https://www.houzz.in/hznb/projects/dr-niyas-residence-pj-vj~6671601)
+
+Houzz independently confirms the project as one of the four Architecture+Swath projects. [Houzz](https://www.houzz.in/professionals/architects-and-building-designers/architecture-swath-pfvwin-pf~1170247849?utm_source=chatgpt.com)
+
+### Additional social-media clue
+
+A secondary social-media/search result references the project as a response to a **narrow 30' × 40' plot** and describes it as presenting its own challenge. [Facebook](https://www.facebook.com/Architecturmind/videos/welcome-to-architecturemind-is-your-go-to-destination-for-architectural-insights/1770016413916757/?utm_source=chatgpt.com)
+
+I would **not yet publish the 30 × 40 figure as official fact**, because I couldn't corroborate it through a primary project page.
+
+### Current status of research
+
+This project clearly existed and was publicly presented by the firm, but much of its detailed architectural story appears to live in older social-media/photo content rather than professionally archived project publications.
+
+---
+
+# 8. Mr. Sachin's Residence
+
+This project is particularly useful because it demonstrates that the firm has had more portfolio work than the major publications reveal.
+
+Sai Harini posted:
+
+> "Here we bring you the elegance and freshness of Mr. Sachin's residence."
+
+The post describes it as a **recently completed project**, with a **modest stature** and a design intended to feel welcoming and warm. It is explicitly tagged with:
+
+- residence
+- design
+- Bangalore architects
+- Yelahanka
+- house design
+- façade. [LinkedIn](https://www.linkedin.com/posts/sai-harini-559510172_architecture-project-bengaluru-activity-7033416081012641792-4Ql7?utm_source=chatgpt.com)
+
+The timing of the public post is roughly 2023 based on LinkedIn's current age label. [LinkedIn](https://www.linkedin.com/posts/sai-harini-559510172_architecture-project-bengaluru-activity-7033416081012641792-4Ql7?utm_source=chatgpt.com)
+
+### What we know
+
+**Project:** Mr. Sachin's Residence  
+**Location:** Yelahanka, Bengaluru  
+**Status:** Recently completed when posted  
+**Character:** modest, welcoming residential architecture.
+
+### What remains unknown
+
+No reliable public source I found gives:
+
+- site size
+- built-up
+- floor count
+- detailed material palette
+- design year
+- consultants
+- cost.
+
+So I would classify this as a **confirmed portfolio project with incomplete technical documentation**.
+
+---
+
+# 9. Into the woods
+
+This is another interesting case where Houzz confirms existence but not much else.
+
+Houzz lists:
+
+**Project:** Into the woods  
+**Project year:** 2023  
+**Project cost:** ₹20,00,001–₹50,00,000  
+**Photos:** 4. [Houzz](https://www.houzz.in/hznb/projects/into-the-woods-pj-vj~7281305)
+
+Unlike Mr. Bala's Residence, Houzz does not provide a location in the displayed project metadata.
+
+I found no sufficiently reliable Architecture+Swath-specific architectural publication that provides its:
+
+- site
+- built-up
+- client
+- floor plan
+- concept
+- materials
+- architect/team.
+
+So this should be retained in an **"Other Projects"** portfolio section unless the studio supplies the detailed project information.
+
+---
+
+# 10. Aasare / Aasare!
+
+This requires caution.
+
+The firm's current Instagram search footprint shows a project called:
+
+**Aasare!**
+
+with tags including:
+
+- Bathroom Design
+- Home Design
+- Luxury Homes
+- Bathroom Interiors
+- Interior Design
+- Residential Design
+- WIP
+- Architecture Swath
+- Bangalore. [Instagram](https://www.instagram.com/reel/DKuIwd7zo-E/?utm_source=chatgpt.com)
+
+That is evidence that **Architecture+Swath has publicly presented an Aasare project/WIP**, but I could not retrieve a reliable text-based project sheet from Instagram.
+
+### Very important
+
+There are unrelated Bengaluru architecture projects also called **Aasare**, including projects by other firms. So I would **not merge those search results into Architecture+Swath's portfolio**. For example, one search result titled AASSARE in Nagarbhavi is clearly by another architecture studio. [AplusMe](https://www.aplusme.in/projects/aassare-nagarbhavi?utm_source=chatgpt.com)
+
+Therefore:
+
+**Architecture+Swath Aasare — existence: probable/visible on their Instagram; technical details: presently unverified.**
+
+This is one of the projects I would ask the studio to provide the original project information for.
+
+---
+
+# 11. Unnamed "minimal contemporary home"
+
+There is another project visible through Meinathan N's LinkedIn activity.
+
+He shared an Architecture+Swath project described as a:
+
+**recently delivered minimal contemporary home**
+
+with a design philosophy focused on:
+
+- expansive/open spaces
+- strong indoor-outdoor connection
+- minimalistic elements
+- views
+- simplicity.
+
+The photographs were credited to **Photographix India**. [LinkedIn](https://in.linkedin.com/in/meinathan-n-7962127a?utm_source=chatgpt.com)
+
+### Why this matters
+
+This appears to be **additional work outside the major published project list**.
+
+But its project name is not visible in the indexed material, so it cannot safely be mapped to Mr. Sachin, Mr. Bala, Niyas, Aasare or another named house without visual/source corroboration.
+
+I would keep this in the research dossier as:
+
+**Unnamed Minimal Contemporary Residence — project identity pending confirmation.**
+
+---
+
+# 12. Possible upcoming Coorg project
+
+A current Architecture+Swath team member's publicly indexed LinkedIn activity refers to:
+
+> "Where Coorg’s hills rise, veiled in morning mist, a new chapter quietly begins..."
+
+and describes an **upcoming project**. [LinkedIn](https://in.linkedin.com/in/aman-fathima-298415322?utm_source=chatgpt.com)
+
+Because this activity appears through an Architecture+Swath team member, it is a strong lead, but I don't have enough evidence in the indexed material to prove:
+
+- the exact project name
+- client
+- location within Coorg
+- scale
+- site area
+- whether Architecture+Swath is the complete design lead.
+
+So I would classify this as:
+
+**Likely upcoming Architecture+Swath project — requires studio confirmation.**
+
+---
+
+# 13. The portfolio tells a story of architectural evolution
+
+This is actually the most interesting outcome of the research.
+
+### Phase 1 — Establishing the studio's residential language
+
+**California Layout**
+
+Core ideas:
+
+**contemporary form  
++ warm materials  
++ landscape  
++ water  
++ open living  
++ vertical relationships** [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+
+### Phase 2 — Compact-site luxury
+
+**Project N170**
+
+The question becomes:
+
+**How do we create luxury when the plot is only 30 × 50?**
+
+The answer is:
+
+**verticality + planning efficiency + carefully controlled openings + premium materials.** [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/project-n170-by-architectureswath?utm_source=chatgpt.com)
+
+### Phase 3 — Cultural architecture
+
+**House Neeranjanam**
+
+The question shifts to:
+
+**How do contemporary homes retain cultural identity?**
+
+The response becomes:
+
+**Kerala Vastu + axis + courts + landscape + ritual + environmental comfort.** [Volume Zero](https://volzero.com/volzero/public/articles/view/house-neeranjanam-by-architecture-swath?utm_source=chatgpt.com)
+
+### Phase 4 — Ritual as architecture
+
+**Abhyudaya**
+
+Here the pooja isn't merely included in the house.
+
+It becomes the **organizing centre of the house**.
+
+That results in:
+
+**ritual + circulation + courtyard + light + materiality + South Indian spatial principles.** [Volume Zero](https://volzero.com/volzero/public/articles/view/abhyudaya-by-architecture-swath?utm_source=chatgpt.com)
+
+That is a very clear progression in the firm's design thinking.
+
+---
+
+# 14. Recurring design elements across projects
+
+Looking across the documented portfolio, some elements appear repeatedly.
+
+| Recurring element | California | N170 | Neeranjanam | Abhyudaya |
+|---|:---:|:---:|:---:|:---:|
+| Courtyard / central void | ✓ | ✓/partial | ✓ | ✓ |
+| Landscape integration | ✓ | ✓ | ✓ | ✓ |
+| Natural light | ✓ | ✓ | ✓ | ✓ |
+| Indoor/outdoor relationship | ✓ | ✓ | ✓ | ✓ |
+| Wood | ✓ | ✓ | ✓ | ✓ |
+| Stone/marble | ✓ | ✓ | ✓ | ✓ |
+| Double-height space | ✓ | ✓ | ✓ | ✓ |
+| Water | ✓ | – | ✓ | ✓ |
+| Vastu/cultural planning | ✓ | – | ✓ | ✓ |
+| Metal screen/jaali | – | – | ✓ | ✓ |
+| Ritual/spiritual focus | – | – | ✓ | **Strong** |
+| Passive environmental strategy | Partial | Partial | **Strong** | **Strong** |
+
+These are not just aesthetic repetitions. They indicate an actual **planning philosophy**: the studio repeatedly uses voids, courtyards, light, vegetation and controlled openings as architectural infrastructure rather than decoration. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+---
+
+# 15. Materials across the portfolio
+
+The recurring material family is remarkably consistent.
+
+### Wood / teak
+Used for warmth, ceilings, partitions, screens and furniture-like architectural elements. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+### Marble
+Used extensively in the luxury residential interiors/exteriors. [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/project-n170-by-architectureswath?utm_source=chatgpt.com)
+
+### Concrete
+More prominent in the earlier contemporary vocabulary. [Amazing Architecture](https://amazingarchitecture.com/houses/house-at-california-layout-yelahanka-india-by-architectureswath?utm_source=chatgpt.com)
+
+### Brass
+Used as a fine detail rather than a dominant material. [Scribd](https://www.scribd.com/document/776910948/House-at-California-Layout?utm_source=chatgpt.com)
+
+### Metal screens / jaalis
+Much more prominent in later projects, particularly Neeranjanam and Abhyudaya. [Amazing Architecture](https://www.amazingarchitecture.com/houses/house-neeranjanam-electronic-city-bangalore-india-by-architecture-plus-swath?utm_source=chatgpt.com)
+
+### Lime plaster
+Appears explicitly in Abhyudaya, where breathability and longevity form part of the material strategy. [Volume Zero](https://volzero.com/volzero/public/articles/view/abhyudaya-by-architecture-swath?utm_source=chatgpt.com)
+
+---
+
+# 16. Project scale
+
+One interesting characteristic is that the firm does **not** have one standardized house scale.
+
+Its public work ranges from compact urban plots to ~10,000 sq ft luxury homes:
+
+**N170:** 30 × 50, 6,000 sq ft  
+**California Layout:** 5,000 sq ft site, 10,000 sq ft built  
+**Neeranjanam:** ~5,300 sq ft site, 6,500–7,450 sq ft built  
+**Abhyudaya:** 4,760–6,200 sq ft reported. [Volume Zero](https://mail.volzero.com/volzero/public/articles/view/project-n170-by-architectureswath?utm_source=chatgpt.com)
+
+That supports positioning the practice as a **custom residential design studio**, rather than a volume villa designer.
+
+---
+
+# 17. Project publication hierarchy
+
+Not every project has the same level of external recognition.
+
+### Tier 1 — Flagship/publication projects
+
+**House at California Layout**  
+**House Neeranjanam**  
+**Abhyudaya**  
+**Project N170**
+
+These have substantial professional documentation and/or editorial coverage. [ArchiDiaries](https://archidiaries.com/projects/house-at-california-layout-architectureswath/?utm_source=chatgpt.com)
+
+### Tier 2 — Confirmed studio portfolio
+
+**Mr. Bala's Residence**  
+**Dr. Niyas Residence**  
+**Mr. Sachin's Residence**
+
+These are clearly real Architecture+Swath projects but are much less documented. [Houzz](https://www.houzz.in/hznb/projects/mr-bala-s-residence-pj-vj~7150803)
+
+### Tier 3 — Publicly visible but insufficiently documented
+
+**Into the woods**  
+**Aasare**  
+**Unnamed minimal contemporary home**  
+**Possible upcoming Coorg project**
+
+These should not be presented with invented technical information. [Houzz](https://www.houzz.in/hznb/projects/into-the-woods-pj-vj~7281305)
+
+---
+
+# 18. What I would put on their official new website
+
+Based on the research, I would **not** simply create a page containing every Instagram project.
+
+The strongest portfolio architecture would be:
+
+### Featured Projects
+
+**House at California Layout**  
+A landmark project and FOAID Gold winner.
+
+**Project N170**  
+Compact 30 × 50 luxury villa.
+
+**House Neeranjanam**  
+Kerala heritage + contemporary climate-responsive residence.
+
+**Abhyudaya**  
+Ritual-centered South Indian contemporary residence.
+
+### Selected Residences
+
+**Mr. Bala's Residence**  
+**Dr. Niyas Residence**  
+**Mr. Sachin's Residence**  
+**Into the Woods**
+
+### Ongoing / Upcoming
+
+**Aasare**  
+plus any confirmed current projects such as the Coorg project.
+
+This would better reflect what the public evidence actually supports.
+
+---
+
+# 19. Information still missing from the public web
+
+For a **100% complete project database**, the missing fields that should be obtained directly from Architecture+Swath are:
+
+**Project name  
+Client name  
+Location  
+Site area  
+Built-up area  
+Plot dimensions  
+Floor configuration  
+Year designed  
+Year commenced  
+Year completed  
+Project status  
+Principal architect  
+Project architect/team  
+Interior designer  
+Structural engineer  
+MEP consultant  
+Landscape consultant  
+Contractor  
+Photographer  
+Budget  
+Architectural fee  
+Brief  
+Design concept  
+Vastu orientation  
+Floor-by-floor program  
+Materials  
+Sustainability measures  
+Awards  
+Publications  
+Photography rights  
+Current project status**
+
+The public web only supplies a fraction of these for most projects.
+
+---
+
+# 20. My current master project list
+
+After cross-checking the firm's directory profiles, architecture publications, principal-architect posts and social footprint, this is the **best public-web project inventory I can substantiate as of 4 October 2026**:
+
+**1. House at California Layout — Yelahanka — completed 2021/22**  
+**2. Dr. Niyas Residence — Yelahanka — 2021**  
+**3. Mr. Bala's Residence — Yelahanka — 2022**  
+**4. Mr. Sachin's Residence — Yelahanka — completed around 2023**  
+**5. Project N170 — Yelahanka — completed 2023**  
+**6. Into the woods — year 2023 on Houzz**  
+**7. House Neeranjanam — Electronic City — designed 2023, completed around 2024/25**  
+**8. Abhyudaya — Yelahanka — completed 2025**  
+**9. Aasare! — Bengaluru — WIP/current social-media project, technical details unverified**  
+**10. Unnamed minimal contemporary residence — publicly shown through the principal architect's LinkedIn**  
+**11. Possible upcoming Coorg project — lead only, requires confirmation**
+
+The first eight have concrete public evidence; the final three should remain clearly marked as **unverified/current leads** until the studio confirms them. [Houzz](https://www.houzz.in/professionals/architects-and-building-designers/architecture-swath-pfvwin-pf~1170247849?utm_source=chatgpt.com)
+
+### One particularly important finding
+
+The public portfolio is **almost certainly larger than the four projects that appear on Houzz and the two that appear on Buildofy/Architizer**. Those platforms are curated/partial profiles, not complete project registers. The LinkedIn evidence alone proves additional residences beyond those flagship databases. [Houzz](https://www.houzz.in/professionals/architects-and-building-designers/architecture-swath-pfvwin-pf~1170247849?utm_source=chatgpt.com)
+
+So for your website/research work, I would treat **California Layout, N170, Neeranjanam and Abhyudaya as the canonical case studies**, and the other projects as the broader **selected works archive** until the firm supplies its internal project list.
